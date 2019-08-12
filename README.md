@@ -1,3 +1,3 @@
 # Calculator
 
-![](/cal.jpg)
+![](/cal40%.jpg)
