@@ -1,3 +1,3 @@
 # Calculator
 
-![](/cal40%.jpg)
+<img src="/cal.jpg" width=300>
